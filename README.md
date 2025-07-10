@@ -9,6 +9,4 @@ I am a Ph.D. student at the National University of Singapore, focusing on **mult
 
 🤝 Open to collaborations, research discussions, and exciting projects in AI and machine learning.
 
-![](https://komarev.com/ghpvc/?username=likaixin2000)
-
 [![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaixin2000&include_all_commits=true)]()
