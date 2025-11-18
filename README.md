@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a Ph.D. student at the National University of Singapore, focusing on **multimodal models, autonomous agents, and code generation**. 🚀
+I am a Ph.D. student at National University of Singapore, focusing on **multimodal models, autonomous agents, and code generation**. 🚀
 
 ### 🔍 About Me
 🎓 Ph.D. researcher passionate about exploring AI, deep learning, and computational creativity.
