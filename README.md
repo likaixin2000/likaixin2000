@@ -9,6 +9,4 @@ I am a Ph.D. student at National University of Singapore, focusing on **multimod
 
 🤝 Open to collaborations, research discussions, and exciting projects in AI and machine learning.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=likaixin2000&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=likaixin2000&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)
-
-![](https://komarev.com/ghpvc/?username=likaixin2000)
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=likaixin2000&hide_title=true&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR">
