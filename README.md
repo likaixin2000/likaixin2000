@@ -9,4 +9,4 @@ I am a Ph.D. student at National University of Singapore, focusing on **multimod
 
 🤝 Open to collaborations, research discussions, and exciting projects in AI and machine learning.
 
-[![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaixin2000&include_all_commits=true)]()
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=likaixin2000&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=likaixin2000&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)
